@@ -1,0 +1,26 @@
+{
+  "name": "boiledplate",
+  "version": "1.0.0",
+  "description": "Projeto base para as próximas aplicações em Nodejs",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LucasZanidaCostaLuz/nodejs-first-boilerplate.git"
+  },
+  "keywords": [
+    "NODEJS",
+    "boilerplate",
+    "SENAI",
+    "Back-end",
+    "Dev"
+  ],
+  "author": "Lucas Zani",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/LucasZanidaCostaLuz/nodejs-first-boilerplate/issues"
+  },
+  "homepage": "https://github.com/LucasZanidaCostaLuz/nodejs-first-boilerplate#readme"
+}
